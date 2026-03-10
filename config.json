@@ -1,0 +1,29 @@
+{
+  "theme": {
+    "font_family": "system-ui, -apple-system, sans-serif",
+    "color_background": "#0b1f1c",
+    "color_surface": "#112b26",
+    "color_text": "#ffffff",
+    "color_text_secondary": "#6b9e94",
+    "color_free_bg": "#1a4a3a",
+    "color_free_fg": "#3ddc84",
+    "color_busy_bg": "#4a1a1a",
+    "color_busy_fg": "#ff6b6b",
+    "color_error_bg": "#2a2a2a",
+    "color_error_fg": "#888888"
+  },
+  "groups": [
+    {
+      "name": "GROUP 1",
+      "rooms": [
+        {"email": "ROOM_EMAIL", "name": "DISPLAY NAME"}
+      ]
+    },
+    {
+      "name": "GROUP 2",
+      "rooms": [
+        {"email": "ROOM_EMAIL", "name": "DISPLAY NAME"}
+      ]
+    }
+  ]
+}
